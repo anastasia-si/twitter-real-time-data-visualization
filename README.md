@@ -7,7 +7,7 @@ To get started, run:
 
 ```
 git clone https://github.com/anastasia-si/twitter-real-time-data-visualization.git
-cd twitter_real_time_data_visualization
+cd twitter-real-time-data-visualization
 docker-compose pull
 docker-compose up  --build -d
 ```

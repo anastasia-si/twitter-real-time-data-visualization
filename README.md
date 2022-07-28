@@ -6,7 +6,7 @@ The repository integrates [Deephaven](https://deephaven.io/) with [matplotlib](h
 To get started, run:
 
 ```
-git clone https://github.com/deephaven-examples/twitter_real_time_data_visualization.git
+git clone https://github.com/anastasia-si/twitter-real-time-data-visualization.git
 cd twitter_real_time_data_visualization
 docker-compose pull
 docker-compose up  --build -d
